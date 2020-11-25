@@ -1,0 +1,11 @@
+com/example/exampart1/TodoItem.java
+ com.example.exampart1.TodoItem
+com/example/exampart1/MainActivity.java
+ com.example.exampart1.MainActivity
+ com.example.exampart1.MainActivity$1
+com/example/exampart1/BuildConfig.java
+ com.example.exampart1.BuildConfig
+com/example/exampart1/TodoDao.java
+ com.example.exampart1.TodoDao
+com/example/exampart1/TodoDatabase.java
+ com.example.exampart1.TodoDatabase
